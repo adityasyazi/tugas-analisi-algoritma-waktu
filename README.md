@@ -1,1 +1,1 @@
-# tugas-analisi-algoritma-waktu
+# tugas-analisis-algoritma-waktu
