@@ -4,7 +4,7 @@
 # Susun program untuk menghitung dan mencetak berapa jam, berapa menit dan berapa detik
 # waktu yang dia habiskan dalam perjalanan.
 
-print(">>>>>>>>>>>>>>>>>>SOAL 1 | PROGRAM DURASI WAKTU<<<<<<<<<<<<<<<<<<<<")
+print(">>>>>>>>>>>>>>>>>>SOAL 2 | PROGRAM DURASI WAKTU<<<<<<<<<<<<<<<<<<<<")
 print("masukan dalam format 24jam")
 jamawaljam = int(input("masukan jam awal: "))
 jamawalmenit = int(input("masukan menit awal: "))
